@@ -1,6 +1,6 @@
 {
     "total": 2,
-    "rows": [
+    "transactions": [
         {
             "is_open_ticket": false,
             "id": 38456,
