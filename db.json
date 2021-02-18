@@ -7,7 +7,7 @@
 			"reply": "7",
 			"voice": "4",
 			"text_2_speech": "8",
-			"inbound_number": "1",
+			"inbound_number": "1"
 		},
 		{
 			"country": "Ukraine",
@@ -15,7 +15,7 @@
 			"reply": "2",
 			"voice": "3",
 			"text_2_speech": "4",
-			"inbound_number": "2",
+			"inbound_number": "2"
 		},
 		{
 			"country": "India",
@@ -23,7 +23,7 @@
 			"reply": "3",
 			"voice": "4",
 			"text_2_speech": "5",
-			"inbound_number": "3",
+			"inbound_number": "3"
 		},
 		{
 			"country": "Paraguay",
@@ -31,7 +31,7 @@
 			"reply": "45",
 			"voice": "34",
 			"text_2_speech": "43",
-			"inbound_number": "4",
+			"inbound_number": "4"
 		}
-	],
+	]
 }
